@@ -52,25 +52,25 @@ public class Village {
             scrawl = keyboard.nextLine();
 
         }
-               else (scry.equals("cry"){
+               else if (scry.equals("cry")){
             System.out.println("You made the right choice. Big Jim answered your call. He regularly ");
 
         }
-               else scrawl{
-            System.out.println("You skinned your knee on a crack in the floor. The creatures almost got you but Big Jim heard and rescues you. You are not recovering in the hospital.");
-        }
-               if fcexit{
-            System.out.println("You made it to the food court back door exit, do you run through the corridor or phone for help?");
-            fcphone = keyboard.nextLine();
-            fchall = keyboard.nextLine();
-
-        }
-               if fcphone{
-            System.out.println("Your phone is in a dead zone but 911 somehow works. You are rescued!");
-        }
-               else if fchall{
-            System.out.println("You run feverishly down the hall and barely make it out before the creature comes for you. Hurray you are saved!");
-        }
+//               else scrawl{
+//            System.out.println("You skinned your knee on a crack in the floor. The creatures almost got you but Big Jim heard and rescues you. You are not recovering in the hospital.");
+//        }
+//               if fcexit{
+//            System.out.println("You made it to the food court back door exit, do you run through the corridor or phone for help?");
+//            fcphone = keyboard.nextLine();
+//            fchall = keyboard.nextLine();
+//
+//        }
+//               if fcphone{
+//            System.out.println("Your phone is in a dead zone but 911 somehow works. You are rescued!");
+//        }
+//               else if fchall{
+//            System.out.println("You run feverishly down the hall and barely make it out before the creature comes for you. Hurray you are saved!");
+//        }
 
 
     }
